@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="itronys:war">
+    <output-path>$PROJECT_DIR$/../SSH-master/target</output-path>
+    <root id="archive" name="itronys-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="itronys:war exploded" />
+    </root>
+  </artifact>
+</component>
