@@ -7,14 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CloudMall" />
-        <module name="itronys" />
-        <module name="ssm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="CloudMall" target="1.5" />
-      <module name="itronys" target="1.6" />
-      <module name="ssm" target="1.5" />
+      <module name="CloudMall" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

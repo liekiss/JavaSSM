@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CloudMall.iml" filepath="$PROJECT_DIR$/CloudMall.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../SSH-master/itronys.iml" filepath="$PROJECT_DIR$/../SSH-master/itronys.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../ssm/ssm.iml" filepath="$PROJECT_DIR$/../ssm/ssm.iml" />
     </modules>
   </component>
 </project>
